@@ -12,4 +12,4 @@ Primer projecte propi. Molt bàsic.
 - Un entorno per compilar y executar Java (VS Code, IntelliJ, Eclipse o terminal)
 - 
 -  ## ▶️ Como executar el projecte
--  1. Clona aquest repositori: 
+-  1. Clona aquest repositori: https://github.com/isamar-dev/Calculadora-b-sica/blob/main/Calculadora.java
